@@ -11,11 +11,11 @@ PC 환경이 아닌 Android 환경에서도 OpenCV를 사용해 볼 수 있도�
 * 실습 과정에서 작성한 코드를 체계적으로 정리
 
 ## 개발 환경
-Platform: Android
-IDE: Pydroid 3
-Python: 3.13.13
-OpenCV: 4.13.0
-NumPy: 2.4.4
+* Platform: Android
+* IDE: Pydroid 3
+* Python: 3.13.13
+* OpenCV: 4.13.0
+* NumPy: 2.4.4
 
 ## 참고
 이 저장소의 코드는 개인적인 학습 및 실습 목적으로 작성되었습니다.
